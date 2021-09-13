@@ -27,8 +27,9 @@ When you need access to the robolab, contact `A.Visser@uva.nl` with the followin
 
 If any problems or questions come up, you can email to `robolabws@gmail.com` to email the admins.
 
-# Important notice
-Keep in mind that your home directory on the computer is public. To prevent any trouble, it is smart to make folders containing important keys or details private, or make your entire home directory private.
+# IMPORTANT NOTICE
+* Keep in mind that your home directory on the computer is public. To prevent any trouble, it is smart to make folders containing important keys or details private, or make your entire home directory private.
+* Your data will be stored until 2 weeks after the expiry date of your project submission. If you want to extend the use of the computers, send a mail to robolabws@gmail.com.
 
 # Hardware Specifications
 
